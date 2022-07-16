@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">quiz</string>
+
+    <string-array name="qustion">
+        <item>"qustion1"</item>
+        <item>"qustion2"</item>
+        <item>"qustion3"</item>
+    </string-array>
+</resources>
